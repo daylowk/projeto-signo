@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<!-- Informações do signo, data de início e fim -->
+<signos>
+
+    <signo>
+        <dataInicio>21/03</dataInicio>
+        <dataFim>20/04</dataFim>
+        <signoNome>Áries</signoNome>
+        <descricao>Regido por Marte, Áries é um signo de fogo e é reconhecido pela energia intensa e espírito de liderança. Pessoas desse signo são dinâmicas, corajosas e impulsivas, sempre em busca de novos desafios. Sua natureza independe e sua necessidade de estar à frente, no entanto, podem torná-las impacientes e impetuosas em algumas situações.</descricao>
+        <imagem>Aries.svg</imagem>
+    </signo>
+
+    <signo>
+        <dataInicio>21/04</dataInicio>
+        <dataFim>20/05</dataFim>
+        <signoNome>Touro</signoNome>
+        <descricao>Com a regência de Vênus, Touro é um signo de terra que se se destaca pela busca por estabilidade e prazer. As pessoas desse signo costumam ser confiáveis, práticas e focadas na segurança emocional e financeira. Valorizam conforto, beleza e conexões com a natureza, mas podem ser vistas como teimosas e resistentes a mudanças.</descricao>
+        <imagem>Taurus.svg</imagem>
+    </signo>
+
+    <signo>
+        <dataInicio>21/05</dataInicio>
+        <dataFim>20/06</dataFim>
+        <signoNome>Gêmeos</signoNome>
+        <descricao>Regido por Mercúrio e o elemento ar, Gêmeos é o signo da comunicação. Seus nativos são curiosos, adaptáveis e com uma mente ágil. São excelentes multitarefas, sociáveis e em busca de novidades, o que pode fazer com que sejam vistos como inconstantes ou superficiais por quem não compreende sua constante evolução.</descricao>
+        <imagem>Gemini.svg</imagem>
+    </signo>
+
+    <signo>
+        <dataInicio>21/06</dataInicio>
+        <dataFim>22/07</dataFim>
+        <signoNome>Câncer</signoNome>
+        <descricao>A Lua rege Câncer, signo de ar que tem uma profunda conexão com as emoções e a família. Pessoas desse signo são protetoras, intuitivas e sensíveis, com um forte desejo de cuidar dos outros. No entanto, a intensidade emocional pode levá-las a ser muito moodativas e vulneráveis a críticas.</descricao>
+        <imagem>Cancer.svg</imagem>
+    </signo>
+
+    <signo>
+        <dataInicio>23/07</dataInicio>
+        <dataFim>22/08</dataFim>
+        <signoNome>Leão</signoNome>
+        <descricao>Com o Sol como regente, Leão é um típico signo de fogo conhecido por sua confiança e carisma. Seus nativos são líderes naturais, generosos e com uma grande presença. Contudo, seu desejo de ser admirado pode transparecer como uma forte necessidade de reconhecimento, o que em algumas situações é interpretado como arrogância.</descricao>
+        <imagem>Leo.svg</imagem>
+    </signo>
+
+    <signo>
+        <dataInicio>23/08</dataInicio>
+        <dataFim>22/09</dataFim>
+        <signoNome>Virgem</signoNome>
+        <descricao>Sob a regência de Mercúrio, Virgem é um signo de terra analítico e detalhista. Pessoas desse signo são práticas, organizadas e perfeccionistas, com uma forte tendência a ajudar os outros. Apesar de serem confiáveis, podem ser excessivamente críticas e obcecadas pelos detalhes.</descricao>
+        <imagem>Virgo.svg</imagem>
+    </signo>
+
+    <signo>
+        <dataInicio>23/09</dataInicio>
+        <dataFim>22/10</dataFim>
+        <signoNome>Libra</signoNome>
+        <descricao>Libra, regido por Vênus, busca harmonia e equilíbrio nas relações. Seus nativos são diplomáticos, charmosos e altamente focados em justiça e equilíbrio. No entanto, sua constante busca por equilíbrio pode torná-los indecisos, dificultando a tomada de decisões firmes.</descricao>
+        <imagem>Libra.svg</imagem>
+    </signo>
+
+    <signo>
+        <dataInicio>23/10</dataInicio>
+        <dataFim>21/11</dataFim>
+        <signoNome>Escorpião</signoNome>
+        <descricao>Regido por Plutão, Escorpião é um signo de água marcado pela intensidade emocional e pela força de vontade, seu elemento é água. Os escorpianos são passionais, misteriosos e intuitivos, com uma habilidade única para compreender as motivações dos outros. Porém, essa profundidade pode torná-los vingativos e possessivos.</descricao>
+        <imagem>Scorpio.svg</imagem>
+    </signo>
+
+    <signo>
+        <dataInicio>22/11</dataInicio>
+        <dataFim>21/12</dataFim>
+        <signoNome>Sagitário</signoNome>
+        <descricao>Do elemento fogo e com Júpiter como regente, Sagitário é o signo do otimismo, aventura e liberdade. Seus nativos são extrovertidos, filosóficos e sempre em busca de novos horizontes. Porém, sua espontaneidade pode levá-los a ser impacientes e, por vezes, descomprometidos.</descricao>
+        <imagem>Sagittarius.svg</imagem>
+    </signo>
+
+    <signo>
+        <dataInicio>22/12</dataInicio>
+        <dataFim>20/01</dataFim>
+        <signoNome>Capricórnio</signoNome>
+        <descricao>Regido por Saturno, Capricórnio é conhecido por sua disciplina e ética de trabalho. Pessoas desse signo são ambiciosas, práticas e focadas na busca pela estabilidade. Seu forte senso de responsabilidade pode ser visto como rigidez excessiva, e sua abordagem conservadora nem sempre é bem recebida.</descricao>
+        <imagem>Capricorn.svg</imagem>
+    </signo>
+
+    <signo>
+        <dataInicio>21/01</dataInicio>
+        <dataFim>18/02</dataFim>
+        <signoNome>Aquário</signoNome>
+        <descricao>Sob a regência de Urano, Aquário é um signo visionário e excêntrico. Seus nativos são criativos, originais e progressistas, sempre à frente de seu tempo. Contudo, essa busca por inovação pode torná-los distantes e desapegados emocionalmente.</descricao>
+        <imagem>Aquarius.svg</imagem>
+    </signo>
+
+    <signo>
+        <dataInicio>19/02</dataInicio>
+        <dataFim>20/03</dataFim>
+        <signoNome>Peixes</signoNome>
+        <descricao>Regido por Netuno, Peixes é um signo profundamente intuitivo e sensível. As pessoas de Peixes são empáticas, artísticas e muito conectadas às suas emoções. Embora sejam generosas e solidárias, podem ser vistas como escapistas, sensíveis ao ponto de se deixarem levar por ilusões.</descricao>
+        <imagem>Pisces.svg</imagem>
+    </signo>
+
+</signos>

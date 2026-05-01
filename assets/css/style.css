@@ -1,0 +1,65 @@
+/* Estilo para a página */
+body {
+    background: linear-gradient(135deg, #dbeafe, #eef2ff);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.formulario-card {
+    width: 100%;
+    max-width: 420px;
+    border: none;
+    border-radius: 16px;
+}
+
+.formulario-card h1 {
+    font-size: 28px;
+    font-weight: bold;
+    color: #1e3a8a;
+}
+
+.form-control {
+    padding: 12px;
+    border-radius: 10px;
+}
+
+.btn {
+    padding: 12px;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+.resultado-container {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.resultado-card {
+    width: 100%;
+    max-width: 520px;
+    border: none;
+    border-radius: 24px;
+    padding: 24px;
+    background: rgba(255, 255, 255, 0.95);
+}
+
+.signo-img {
+    width: 180px;
+    height: 180px;
+    object-fit: contain;
+    background-color: #eef2ff;
+    padding: 18px;
+}
+
+.resultado-card h1 {
+    font-size: 36px;
+    font-weight: bold;
+    color: #1e3a8a;
+}
+
+.descricao-signo {
+    font-size: 18px;
+    color: #374151;
+    margin-top: 16px;
+}
